@@ -87,10 +87,10 @@ article {
 /*---- Non-navigation text, etc. ----*/
 
 article a {
-	border-bottom: 1px solid #f4645f;
+	border-bottom: 1px solid #bfd9f1;
 	border-bottom: 1px solid rgba(0,102,204,.25);
 }
-article a:hover, .feature a:hover { border-color: #06c }
+article a:hover, .feature a:hover { border-color: #f4645f }
 
 article img {
 	float: left;
@@ -514,7 +514,7 @@ article .featfeat h2 {
 	margin-top: 0;
 }
 #main_nav a:hover, #main_nav .subli a:hover {
-	background-color: #234;
+	background-color: #f4645f;
 	background-color: rgba(0,0,0,.2);
 	color: #fff;
 }
