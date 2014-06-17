@@ -9,13 +9,13 @@
 }
 body { font: 400 14px/21px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif }
 body, #dog_tag span span {
-	background: #345 url(http://learn.shayhowe.com/assets/images/triangles/triangles.svg) 0 0 fixed;
+	background: #345 url(bg.gif) 0 0 fixed;
 	background: -webkit-linear-gradient(rgba(204,229,255,.15), rgba(0,0,0,.3)) fixed, #345 url(bg.gif) 0 0 fixed;
 	background: linear-gradient(rgba(204,229,255,.15), rgba(0,0,0,.3)) fixed, #345 url(bg.gif) 0 0 fixed;
 }
 a {
 	text-decoration:none;
-	color: #f4645f;
+	color: #06c;
 	-webkit-transition: .2s;
 	transition: .2s;
 }
@@ -87,10 +87,10 @@ article {
 /*---- Non-navigation text, etc. ----*/
 
 article a {
-	border-bottom: 1px solid #f4645f;
+	border-bottom: 1px solid #bfd9f1;
 	border-bottom: 1px solid rgba(0,102,204,.25);
 }
-article a:hover, .feature a:hover { border-color: #f4645f }
+article a:hover, .feature a:hover { border-color: #06c }
 
 article img {
 	float: left;
@@ -352,11 +352,11 @@ header, #related {
 }
 header { border-top-left-radius: 5px }
 header a, #related a {
-	color: #f4645f; /* NOTE */
-	color: #f4645f;
-	border-bottom: 1px solid #f4645f;
+	color: #4af; /* NOTE */
+	color: #09f;
+	border-bottom: 1px solid #059;
 }
-header a:hover, article #related a:hover { border-color: #f4645f }
+header a:hover, article #related a:hover { border-color: #4af }
 
 #main_content {
 	padding: 20px 20px 45px 20px; /* ??? */
@@ -520,7 +520,7 @@ article .featfeat h2 {
 }
 #main_nav ul ul a, #main_nav .subli a {
 	margin-top: 0;
-	color: #f4645f;
+	color: #7cf;
 }
 #main_nav .asec { color: #fff }
 #main_nav ul ul *, #main_nav .subli * { font: 600 12px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif }
