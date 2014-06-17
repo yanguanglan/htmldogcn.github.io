@@ -7,8 +7,8 @@ permalink:        /:title
 
 title: "HTML Dog 中文翻译"
 description: "HTML, CSS, JavaScript 教程, 手册, 文章 | HTML Dog 中文翻译"
-domain: http://yanguanglan.github.io/htmldogcn.github.io/
-baseurl: /
+domain: yanguanglan.github.io
+baseurl: /htmldogcn.github.io/
 production_url: http://yanguanglan.github.io/htmldogcn.github.io/
 
 author :
