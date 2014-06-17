@@ -87,7 +87,7 @@ article {
 /*---- Non-navigation text, etc. ----*/
 
 article a {
-	border-bottom: 1px solid #bfd9f1;
+	border-bottom: 1px solid #f4645f;
 	border-bottom: 1px solid rgba(0,102,204,.25);
 }
 article a:hover, .feature a:hover { border-color: #06c }
