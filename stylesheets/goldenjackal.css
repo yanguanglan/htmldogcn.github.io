@@ -15,7 +15,7 @@ body, #dog_tag span span {
 }
 a {
 	text-decoration:none;
-	color: #06c;
+	color: #f4645f;
 	-webkit-transition: .2s;
 	transition: .2s;
 }
@@ -514,13 +514,13 @@ article .featfeat h2 {
 	margin-top: 0;
 }
 #main_nav a:hover, #main_nav .subli a:hover {
-	background-color: #f4645f;
+	background-color: #234;
 	background-color: rgba(0,0,0,.2);
 	color: #fff;
 }
 #main_nav ul ul a, #main_nav .subli a {
 	margin-top: 0;
-	color: #7cf;
+	color: #f4645f;
 }
 #main_nav .asec { color: #fff }
 #main_nav ul ul *, #main_nav .subli * { font: 600 12px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif }
