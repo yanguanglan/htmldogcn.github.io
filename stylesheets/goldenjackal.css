@@ -87,7 +87,7 @@ article {
 /*---- Non-navigation text, etc. ----*/
 
 article a {
-	border-bottom: 1px solid #bfd9f1;
+	border-bottom: 1px solid #f4645f;
 	border-bottom: 1px solid rgba(0,102,204,.25);
 }
 article a:hover, .feature a:hover { border-color: #f4645f }
@@ -352,11 +352,11 @@ header, #related {
 }
 header { border-top-left-radius: 5px }
 header a, #related a {
-	color: #4af; /* NOTE */
-	color: #09f;
-	border-bottom: 1px solid #059;
+	color: #f4645f; /* NOTE */
+	color: #f4645f;
+	border-bottom: 1px solid #f4645f;
 }
-header a:hover, article #related a:hover { border-color: #4af }
+header a:hover, article #related a:hover { border-color: #f4645f }
 
 #main_content {
 	padding: 20px 20px 45px 20px; /* ??? */
