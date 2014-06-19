@@ -1,12 +1,11 @@
-auto:	          true
+auto:	          false
 markdown:         rdiscount
 pygments:         true
-permalink:
 
 title: "HTML Dog 中文翻译"
 description: "HTML, CSS, JavaScript 教程, 手册, 文章 | HTML Dog 中文翻译"
 domain: yanguanglan.github.io
-baseurl: /htmldogcn.github.io/
+baseurl: /htmldogcn.github.io
 production_url: http://yanguanglan.github.io/htmldogcn.github.io/
 
 author :
