@@ -9,15 +9,15 @@ category: sitemap
 
 <header>
 
-	<div id="flowerbreak" class="flowernum2 flowerextra"></div>
-	<h1>网站地图</h1>
+<div id="flowerbreak" class="flowernum2 flowerextra"></div>
+<h1>网站地图</h1>
 
-	<p>HTML Dog 中文翻译快速预览与章节链接</p>
+<p>HTML Dog 中文翻译快速预览与章节链接</p>
 
 
-		<aside id="flower_primary" class="flower">
-			<div id="bsap_1294690" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-		</aside>
+<aside id="flower_primary" class="flower">
+<div id="bsap_1294690" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+</aside>
 
 
 </header>
@@ -186,16 +186,16 @@ category: sitemap
 
 
 <aside id="flowers">
-	<div class="flower">
-		<div id="bsap_1294762" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-	</div>
-	
-	<div class="blossom">
-		<div id="bsap_1294763" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-		<div id="bsap_1294764" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-	</div>
+<div class="flower">
+<div id="bsap_1294762" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+</div>
 
-	<p><a href="/advertise/">广告赞助</a></p>
+<div class="blossom">
+<div id="bsap_1294763" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+<div id="bsap_1294764" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+</div>
+
+<p><a href="/advertise/">广告赞助</a></p>
 
 </aside>
 
@@ -206,12 +206,12 @@ category: sitemap
 
 <footer id="related">
 
-  <h2>相关页面</h2>
+<h2>相关页面</h2>
 
 
-  <ul>
-  <li><a href="/">首页</a></li>
-  </ul>
+<ul>
+<li><a href="/">首页</a></li>
+</ul>
 
 </footer>
 
