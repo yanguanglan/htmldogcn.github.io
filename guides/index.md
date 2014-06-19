@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: 教程
 category: index
 ---
 <article>
@@ -14,7 +14,7 @@ category: index
 </header>
 <section id="main_content">
 <h2 id="c1">教程</h2>
-<p><a href="guides/">从现在开始</a> 学习 <a href="{{site.baseurl}}guides/html/">HTML</a>，<a href="{{site.baseurl}}guides/css/">CSS</a>，<a href="{{site.baseurl}}guides/javascript/">JavaScript</a>，边学边做吧！</p>
+<p><a href="{site.baseurl}}guides/">从现在开始</a> 学习 <a href="{{site.baseurl}}guides/html/">HTML</a>，<a href="{{site.baseurl}}guides/css/">CSS</a>，<a href="{{site.baseurl}}guides/javascript/">JavaScript</a>，边学边做吧！</p>
 <h2>技巧</h2>
 <p><a href="{{site.baseurl}}techniques/">一些常用的技术技巧</a> 这些技术概述了常见的网页设计功能实现。</p>
 <h2>范例</h2>
