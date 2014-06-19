@@ -1,54 +1,98 @@
 ---
 layout: default
 title: 教程
-category: index
+category: guides
 ---
+<nav id="you_are_here"><a href="{{site.baseurl}}" id="home_link">首页</a><span id="yah_last"> &rarr; </span></nav>
+
 <article>
+
 <header>
-  <div id="flowerbreak" class="flowernum2 flowerextra"></div>
-  <h1>HTML，CSS，JavaScript 教程。</h1>
-  <p>欢迎来到 HTML Dog 中文翻译，这里有网页设计师所需的一切资源，这些资源是关于HTML、CSS 和 Javascript 等制作网页所需的基础知识。</p>  
+
+<div id="flowerbreak" class="flowernum2 flowerextra"></div>
+<h1>教程</h1>
+
+<p>我们 <em>合理</em> 的将 <a href="{{site.baseurl}}html/">HTML</a>, <a href="{{site.baseurl}}css/">CSS</a>, and <a href="{{site.baseurl}}javascript/">JavaScript</a> - 每种技术语言都分成三部分来学习。 其中 <em>初级</em> 教程手把手教， <em>中级</em> 和 <em>高级</em> 教程针对细节进行独立讲解，还有一些独特的技术技巧和编程最佳实践。</p>
+
+
+
 <aside id="flower_primary" class="flower">
-      <div id="bsap_1294690" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+<div id="bsap_1294690" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
 </aside>
+
+
 </header>
+
 <section id="main_content">
-<h2 id="c1">教程</h2>
-<p><a href="{site.baseurl}}guides/">从现在开始</a> 学习 <a href="{{site.baseurl}}guides/html/">HTML</a>，<a href="{{site.baseurl}}guides/css/">CSS</a>，<a href="{{site.baseurl}}guides/javascript/">JavaScript</a>，边学边做吧！</p>
-<h2>技巧</h2>
-<p><a href="{{site.baseurl}}techniques/">一些常用的技术技巧</a> 这些技术概述了常见的网页设计功能实现。</p>
-<h2>范例</h2>
-<p><a href="{{site.baseurl}}examples/">练习实例</a> 通过学习范例，进行实例练习，加深理解并进一步验证你的学习成果。</p>
-<h2>手册</h2>
-<p><a href="{{site.baseurl}}reference/">参考手册</a>，可参考 <a href="reference/htmltags/">HTML 标签</a> 和 <a href="reference/cssproperties/">CSS 属性</a>。</p>
+
+
+
+
+<h2><a href="{{site.baseurl}}html/">HTML 教程</a></h2>
+
+<p>语意化定义内容结构。</p>
+
+<ul>
+<li><a href="{{site.baseurl}}html/beginner/">HTML 初级教程</a>：手把手学习 HTML 基础，新人从这里开始。</li>
+<li><a href="{{site.baseurl}}html/intermediate/">HTML 中级教程</a>：一些常见并且很有用的技术技巧， 包括 <em>元标签</em>， <em>自定义内容</em>， 和 <em>区域</em>。</li>
+<li><a href="{{site.baseurl}}html/advanced/">HTML 高级教程</a>： 更标准合理的应用 HTML，包括 <em>链接的可访问性</em>, <em>HTML5 表单</em>, 和 <em>可嵌入内容： 视频、语音、画布</em>。</li>
+</ul>
+
+<h2><a href="css/">CSS 教程</a></h2>
+
+<p>表现。 美化HTML。</p>
+
+<ul>
+<li><a href="{{site.baseurl}}css/beginner/">CSS 初级教程</a>：手把手学习 HTML 基础，建议先学习HTML。</li>
+<li><a href="{{site.baseurl}}css/intermediate/">CSS 中级教程</a>： 一些常见并且很有用的技术技巧， 包括 <em>分组与嵌套</em>， <em>背景图片</em>， 和 <em>页面布局</em>。</li>
+<li><a href="{{site.baseurl}}css/advanced/">CSS 高级教程</a>：CSSS深入学习与应用， 包括 <em>可嵌入字体</em>， <em>过渡</em>， 和 <em>媒体查询</em>。</li>
+</ul>
+
+<h2><a href="{{site.baseurl}}javascript/">JavaScript 教程</a></h2>
+
+<p>行为。 让网页动起来。</p>
+
+<ul>
+<li><a href="{{site.baseurl}}javascript/beginner/">JavaScript 初级教程</a>： 介绍 JavaScript 和编程的基本知识。</li>
+<li><a href="{{site.baseurl}}javascript/intermediate/">JavaScript 中级教程</a>： 介绍 JavaScript 的一些特性。 包括 <em>文档对象模型 DOM</em>， <em>异步调用 AJAX</em>， 和 <em>jQuery</em>。</li>
+<li><a href="{{site.baseurl}}javascript/advanced/">JavaScript 高级教程</a>： 文档对象模型的高级应用， <em>错误处理</em>， <em>正则表达式</em>， 和 <em>应用程序</em>。</li>
+</ul>
 <aside id="flowers">
-  <div class="flower">
-    <div id="bsap_1294762" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-  </div>
-  <div class="blossom">
-    <div id="bsap_1294763" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-    <div id="bsap_1294764" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
-  </div>
-  <p><a href="{{site.baseurl}}/advertise/">广告赞助</a></p>
+<div class="flower">
+<div id="bsap_1294762" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+</div>
+
+<div class="blossom">
+<div id="bsap_1294763" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+<div id="bsap_1294764" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+</div>
+
+<p><a href="{{site.baseurl}}/advertise/">广告赞助</a></p>
+
 </aside>
+
+
+
 </section>
-<section class="feature"><div class="feat2">
-  <!--<aside class="featfeat">
-    <h2>Give a dog a link</h2>
-      <p>Find the site useful? <a href="linkto/">Link to it</a> and we&#8217;ll be your friend forever.</p>
-  </aside>-->
-  <h2>最新内容</h2>
-  <p><img src="{{site.baseurl}}images/html5_2.gif"><a href="{{site.baseurl}}guides/html/">HTML5</a>，<a href="{{site.baseurl}}guides/css/">CSS3</a>，和 <a href="{{site.baseurl}}guides/javascript/">JavaScript</a>。</p>
-</div></section>
+
+
 <footer id="related">
-  <h2>开始学习</h2>
-  <ul>
-      <li><a href="{{site.baseurl}}guides/html/beginner/">HTML 初级教程</a>：马上开始</li>
-    <li><a href="{{site.baseurl}}guides/css/beginner/">CSS 初级教程</a>：马上开始</li>
-    <li><a href="{{site.baseurl}}guides/javascript/">JavaScript 初级教程</a>：马上开始</li>
-  </ul>
+
+<h2>相关页面</h2>
+
+
+<ul>
+<li><a href="{{site.baseurl}}/techniques/">技巧</a></li>
+<li><a href="{{site.baseurl}}/reference/">手册</a></li>
+</ul>
+
+
 </footer>
+
+
 </article>
+
+
 <nav id="main_nav">
 <ul>
 <li id="li_tut"><a href="{{site.baseurl}}guides/" >教程</a>
